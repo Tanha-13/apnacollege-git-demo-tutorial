@@ -1,6 +1,7 @@
 # apnacollege-git-demo-tutorial
 This is a demo project to learn Git and GitHub from Apna College.
 <br>
-Hello, This is Nusrat Tanha.
+Hello, This is Nusrat Tanha,Department of Information Technology and Management.
+
 
 			
